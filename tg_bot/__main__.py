@@ -59,7 +59,8 @@ motivate him to make me even better. All the donation money will go to a better 
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](t.me/mkspali), or [Monzo](t.me/mkspali)."""
 
-TECHNO_IMG = "https://user-images.githubusercontent.com/84823049/120094205-a4157400-c13c-11eb-9a72-8d1111809eb5.jpg"
+TECHNO_IMG = "https://user-images.githubusercontent.com/89684087/131238850-be2f57d1-4e56-472d-adfd-e1514e908595.jpeg)
+"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
