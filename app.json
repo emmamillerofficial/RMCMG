@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/emmamillerofficial/Marie2.0",
+  "repository": "hhttps://github.com/emmamillerofficial/RMCMG",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
