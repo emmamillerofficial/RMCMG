@@ -54,13 +54,12 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/mkspali) to get me to where I am now, and every donation helps \
+It took lots of work for [my creator](t.me/SonOfLars) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](t.me/mkspali), or [Monzo](t.me/mkspali)."""
+There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
 
-TECHNO_IMG = "![WhatsApp Image 2021-08-29 at 10 14 46 AM](https://user-images.githubusercontent.com/89684087/131239268-e654b6ba-f1e9-4d0b-82f9-75ddacb5e40a.jpeg)"
-"
+TECHNO_IMG = "https://user-images.githubusercontent.com/84823049/120094205-a4157400-c13c-11eb-9a72-8d1111809eb5.jpg"
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
