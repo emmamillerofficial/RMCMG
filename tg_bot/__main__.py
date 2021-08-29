@@ -59,7 +59,7 @@ motivate him to make me even better. All the donation money will go to a better 
 (see his bio!). He's just a poor student, so every little helps!
 There are two ways of paying him; [PayPal](t.me/mkspali), or [Monzo](t.me/mkspali)."""
 
-TECHNO_IMG = "https://user-images.githubusercontent.com/89684087/131238850-be2f57d1-4e56-472d-adfd-e1514e908595.jpeg"
+TECHNO_IMG = "![WhatsApp Image 2021-08-29 at 10 14 46 AM](https://user-images.githubusercontent.com/89684087/131239268-e654b6ba-f1e9-4d0b-82f9-75ddacb5e40a.jpeg)"
 "
 IMPORTED = {}
 MIGRATEABLE = []
