@@ -1,3 +1,4 @@
+![RMCMG]https://user-images.githubusercontent.com/84823049/120094205-a4157400-c13c-11eb-9a72-8d1111809eb5.jpg
 # RMCMG
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
